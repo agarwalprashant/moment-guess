@@ -12,7 +12,10 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^8.0.0",
     "rollup": "^2.10.9",
-    "rollup-plugin-terser": "^6.1.0"
+    "rollup-plugin-terser": "^6.1.0",
+    "jest": "^26.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jest-cli": "^26.1.0"
+  }
 }
